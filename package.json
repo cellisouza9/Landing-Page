@@ -1,0 +1,9 @@
+{
+  "name": "lage-page-celly",
+  "version": "1.0.0",
+  "description": "Landing Page - Celly Sistemas",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "private": true
+}
